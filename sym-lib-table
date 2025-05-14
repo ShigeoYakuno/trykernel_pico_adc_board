@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RPi_Hat")(type "KiCad")(uri "${KIPRJMOD}/libraries/RPi_Hat_Template/libraries/RPi_Hat.kicad_sym")(options "")(descr ""))
+  (lib (name "Raspberry_Pi_Pico_W_SC0918")(type "KiCad")(uri "${KIPRJMOD}/libraries/pico/Raspberry_Pi_Pico_W_SC0918.kicad_sym")(options "")(descr ""))
+  (lib (name "S1MFL")(type "KiCad")(uri "${KIPRJMOD}/libraries/S1MFL/S1MFL.kicad_sym")(options "")(descr ""))
+  (lib (name "acm1602")(type "KiCad")(uri "${KIPRJMOD}/acm1602.kicad_sym")(options "")(descr ""))
+  (lib (name "3362P-1-103")(type "KiCad")(uri "${KIPRJMOD}/libraries/3362P-1-103/3362P-1-103.kicad_sym")(options "")(descr ""))
+  (lib (name "NAU7802SGI")(type "KiCad")(uri "${KIPRJMOD}/libraries/NAU7802SGI/NAU7802SGI.kicad_sym")(options "")(descr ""))
+)
